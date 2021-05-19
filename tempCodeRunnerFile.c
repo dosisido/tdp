@@ -1,0 +1,2 @@
+
+    char nameIn[maxWord], c;
